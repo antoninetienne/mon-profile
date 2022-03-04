@@ -1,0 +1,65 @@
+body {
+	background-color: #E4F2F0;
+	color : rgb(60, 60, 60);
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 15px;
+	display: block;
+	margin: 25px 300px;
+	text-align: center;
+}
+
+h1 {
+	letter-spacing: 4px;
+	color: black;
+}
+
+img {
+	border-radius: 100px;
+	box-shadow: 0px 0px 20px 0px;
+}
+
+.card, .profile {
+	padding: 20px;
+	background-color: #f6f6f6;
+	border-radius: 12px;
+	margin-bottom: 35px;
+	box-shadow: 0px 0px 22px -3px;
+}
+
+.profile {
+	padding-bottom: 30px;
+}
+
+p {
+	margin-right: 75px;
+	margin-left: 75px;
+}
+
+.liste {
+	list-style: none;
+	display: inline;
+	padding: 10px;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.list-inline li {
+  display: inline;
+  padding: 20px;
+}
+
+.list-inline i {
+  font-size: 30px;
+}
+
+a {
+	color: #3454D1;
+
+}
+a:hover {
+	color:  darkgrey;
+}
+
